@@ -1,0 +1,10 @@
+.buttons {
+    margin-top: 1em;
+}
+
+input {
+    border: none;
+    background-color: lightblue;
+    width: 7em;
+    padding: 0.25em;
+}
